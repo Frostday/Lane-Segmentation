@@ -44,4 +44,4 @@ This is the result after 10 epochs
 | ![](assets/loss.png)| ![](assets/acc.png)| ![](assets/iou.png)|
 
 ![](assets/inputs.png)
-![](assets/result.png)
+![](assets/results.png)
